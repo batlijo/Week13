@@ -32,6 +32,8 @@ concepts:
     - logging client requests
 - what does parse mean? parts of syntax in a url...
 - Performing logic - the SERVER
+- what's a module:
+    - something your inputing or exporting
 
 
 

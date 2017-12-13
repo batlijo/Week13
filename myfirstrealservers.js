@@ -1,3 +1,5 @@
+// THIS CODE WORKS YES!
+
 const http = require("http");
 // Define the port to listen on
 // YOU CANNOT LISTEN ON PORT 80
@@ -5,11 +7,11 @@ const PORTA = 7000;
 const PORTB = 7500;
 
 function responseHandler(request, response){
-  // Say hi
+  // Say you're a bad listener
   response.end("You're a bad listener");
 }
 function responseHandler2(request, response){
-  // Say hi
+  // Say you're a good listener
   response.end("You're a great listener");
 }
 const server = http.createServer(responseHandler);
