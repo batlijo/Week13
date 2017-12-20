@@ -1,0 +1,21 @@
+h1.display-3 {
+    color: orange;
+}
+p.lead {
+    color: orange;
+}
+p {
+    color: orange;
+}
+a.btn.btn-primary.btn-lg {
+    background-color: red;
+}
+input#formGroupExampleInput{
+  color:red;
+}
+input#formGroupExampleInput2{
+  color: red;
+}
+label.col-form-label {
+    color: orange;
+}
